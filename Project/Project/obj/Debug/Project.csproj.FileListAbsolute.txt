@@ -1,0 +1,17 @@
+D:\iti\Project C#\Project\Project\bin\Debug\Project.exe.config
+D:\iti\Project C#\Project\Project\bin\Debug\Project.exe
+D:\iti\Project C#\Project\Project\bin\Debug\Project.pdb
+D:\iti\Project C#\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\iti\Project C#\Project\Project\obj\Debug\Project.Form1.resources
+D:\iti\Project C#\Project\Project\obj\Debug\Project.imges.Usres.Users.resources
+D:\iti\Project C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\iti\Project C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\iti\Project C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\iti\Project C#\Project\Project\obj\Debug\Project.exe
+D:\iti\Project C#\Project\Project\obj\Debug\Project.pdb
+D:\iti\Project C#\Project\Project\obj\Debug\Project.Main.resources
+D:\iti\Project C#\Project\Project\obj\Debug\Project.Customer.CustomerManagment.resources
+D:\iti\Project C#\Project\Project\obj\Debug\Project.Product.List_Product.resources
+D:\iti\Project C#\Project\Project\obj\Debug\Project.Sales.Sales.resources
+D:\iti\Project C#\Project\Project\obj\Debug\Project.Suppliers.Suppliers_Managment.resources
+D:\iti\Project C#\Project\Project\obj\Debug\Project.NewProduct.resources
